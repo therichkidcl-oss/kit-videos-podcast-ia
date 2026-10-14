@@ -1,0 +1,26 @@
+{
+ "nombre": "Tu Marca",
+ "web": "tumarca.com",
+ "insignia": "TU MARCA EN 1 MINUTO",
+ "palabra_clave": "MARCA",
+ "dm": {"titulo": "Tu link a Tu Marca", "sub": "APP GRATIS"},
+ "color": "#7C5CFF",
+ "logo": "marca/logo.png",
+ "cabeza": "marca/cabeza.png",
+ "busto": "marca/busto.png",
+ "presentador": "marca/presentador.png",
+ "personaje": "marca/personaje",
+ "personaje_centro": {"pregunta": 512, "piensa": 512, "sorpresa": 512, "celebra": 512, "fallo": 512, "like": 512, "espera": 512},
+ "app": {
+  "pantallas": ["marca/app/pantalla-1.png", "marca/app/pantalla-2.png", "marca/app/pantalla-3.png"],
+  "toques": [[1, 0.5, 0.86], [2, 0.5, 0.42]]
+ },
+ "credito_3d": "Modelo 3D: BodyParts3D © DBCLS · CC BY 4.0",
+ "voz": "narrador",
+ "podcast": {
+  "cta": "Si quieres aprender más, entra a TuMarca{tu marca} punto com.",
+  "clave_web": "tumarca",
+  "cierre": "Comenta Marca{marca}, y te mando el link para usarla gratis. Sígueme para más.",
+  "clave_palabra": "marca"
+ }
+}

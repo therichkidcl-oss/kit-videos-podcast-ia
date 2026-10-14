@@ -1,0 +1,26 @@
+{
+ "titulo": "Quiz de ejemplo - Cultura general",
+ "frases": [
+  "¿Cuál es el planeta más grande del sistema solar?",
+  "Júpiter: en él cabrían más de mil Tierras.",
+  "Dale like{laik} si acertaste. Y ojo: casi nadie acierta la última.",
+  "¿Cuántos lados tiene un hexágono?",
+  "Seis, como las celdas de un panal de abejas.",
+  "¿Qué gas toman las plantas del aire para hacer fotosíntesis?",
+  "Dióxido de carbono, y a cambio liberan oxígeno.",
+  "¿Cuál es el océano más grande del mundo?",
+  "El Pacífico: cubre casi un tercio del planeta.",
+  "¿Cuántos minutos tiene un día?",
+  "Mil cuatrocientos cuarenta: veinticuatro horas por sesenta.",
+  "Antes de la última, sígueme para aprender jugando.",
+  "La que casi nadie acierta: ¿qué animal tiene tres corazones?",
+  "El pulpo: dos corazones mueven la sangre por las branquias y uno por el resto del cuerpo.",
+  "Comenta cuántas acertaste.",
+  "Si quieres aprender más, entra a TuMarca{tu marca} punto com."
+ ],
+ "preguntas": [[0, 1], [3, 4], [5, 6], [7, 8], [9, 10], [12, 13]],
+ "cuenta": 4,
+ "claves": [["like", 2, "like"], ["nadie2", 2, "nadie"], ["ultima11", 11, "ultima"], ["sigueme", 11, "sigueme"],
+            ["comenta", 14, "comenta"], ["acertaste14", 14, "acertaste"], ["quieres15", 15, "quieres"], ["web", 15, "tumarca"]],
+ "musica": {"pista": "explicacion-tech", "desde": 0, "nivel_db": -17}
+}

@@ -1,0 +1,1283 @@
+{
+ "partes": [
+  {
+   "n": "craneo",
+   "fj": [
+    "FJ1282",
+    "FJ1285",
+    "FJ1286",
+    "FJ1289",
+    "FJ1297",
+    "FJ1299",
+    "FJ1305",
+    "FJ1317",
+    "FJ1320",
+    "FJ1331",
+    "FJ1336",
+    "FJ1337",
+    "FJ1340",
+    "FJ1348",
+    "FJ1350",
+    "FJ1356",
+    "FJ1368",
+    "FJ1371",
+    "FJ1382",
+    "FJ3199",
+    "FJ3200",
+    "FJ3263",
+    "FJ3265",
+    "FJ3269",
+    "FJ3272",
+    "FJ3273",
+    "FJ3274",
+    "FJ3281",
+    "FJ3287",
+    "FJ3309",
+    "FJ3369",
+    "FJ3371",
+    "FJ3375",
+    "FJ3378",
+    "FJ3379",
+    "FJ3380",
+    "FJ3386",
+    "FJ3392",
+    "FJ3395"
+   ],
+   "tipo": "hueso",
+   "caras": 14000
+  },
+  {
+   "n": "esfenoides",
+   "fj": [
+    "FJ3394"
+   ],
+   "tipo": "hueso",
+   "caras": 3000
+  },
+  {
+   "n": "mandibula",
+   "fj": [
+    "FJ3289"
+   ],
+   "tipo": "hueso",
+   "caras": 3000
+  },
+  {
+   "n": "dientes",
+   "fj": [
+    "FJ1254",
+    "FJ1255",
+    "FJ1256",
+    "FJ1257",
+    "FJ1258",
+    "FJ1259",
+    "FJ1260",
+    "FJ1261",
+    "FJ1262",
+    "FJ1263",
+    "FJ1264",
+    "FJ1265",
+    "FJ1266",
+    "FJ1267",
+    "FJ1268",
+    "FJ1269",
+    "FJ1270",
+    "FJ1271",
+    "FJ1272",
+    "FJ1273",
+    "FJ1274",
+    "FJ1275",
+    "FJ1276",
+    "FJ1277",
+    "FJ1278",
+    "FJ1279",
+    "FJ1280",
+    "FJ1281"
+   ],
+   "tipo": "valvula",
+   "caras": 6000
+  },
+  {
+   "n": "hioides",
+   "fj": [
+    "FJ2772",
+    "FJ3201"
+   ],
+   "tipo": "hueso",
+   "caras": 800
+  },
+  {
+   "n": "cervicales",
+   "fj": [
+    "FJ3161",
+    "FJ3164",
+    "FJ3167",
+    "FJ3170",
+    "FJ3172",
+    "FJ3176",
+    "FJ3177"
+   ],
+   "tipo": "hueso",
+   "caras": 6000
+  },
+  {
+   "n": "columna",
+   "fj": [
+    "FJ3154",
+    "FJ3155",
+    "FJ3156",
+    "FJ3157",
+    "FJ3158",
+    "FJ3159",
+    "FJ3160",
+    "FJ3162",
+    "FJ3163",
+    "FJ3165",
+    "FJ3166",
+    "FJ3168",
+    "FJ3169",
+    "FJ3171",
+    "FJ3173",
+    "FJ3174",
+    "FJ3175",
+    "FJ3202",
+    "FJ3203",
+    "FJ3204",
+    "FJ3205",
+    "FJ3206",
+    "FJ3207",
+    "FJ3208",
+    "FJ3209",
+    "FJ3210",
+    "FJ3211",
+    "FJ3212",
+    "FJ3213",
+    "FJ3214",
+    "FJ3215",
+    "FJ3216",
+    "FJ3217",
+    "FJ3218",
+    "FJ3219",
+    "FJ3220",
+    "FJ3221",
+    "FJ3222",
+    "FJ3223",
+    "FJ3224",
+    "FJ3393"
+   ],
+   "tipo": "hueso",
+   "caras": 10000
+  },
+  {
+   "n": "costillas",
+   "fj": [
+    "FJ3225",
+    "FJ3226",
+    "FJ3227",
+    "FJ3228",
+    "FJ3229",
+    "FJ3230",
+    "FJ3231",
+    "FJ3232",
+    "FJ3233",
+    "FJ3234",
+    "FJ3235",
+    "FJ3236",
+    "FJ3239",
+    "FJ3242",
+    "FJ3245",
+    "FJ3248",
+    "FJ3251",
+    "FJ3254",
+    "FJ3255",
+    "FJ3330",
+    "FJ3331",
+    "FJ3332",
+    "FJ3333",
+    "FJ3334",
+    "FJ3335",
+    "FJ3336",
+    "FJ3337",
+    "FJ3338",
+    "FJ3339",
+    "FJ3340",
+    "FJ3341",
+    "FJ3342",
+    "FJ3343",
+    "FJ3344",
+    "FJ3345",
+    "FJ3346",
+    "FJ3347",
+    "FJ3348"
+   ],
+   "tipo": "hueso",
+   "caras": 12000
+  },
+  {
+   "n": "esternon",
+   "fj": [
+    "FJ3153",
+    "FJ3178",
+    "FJ3290"
+   ],
+   "tipo": "hueso",
+   "caras": 2000
+  },
+  {
+   "n": "humeros",
+   "fj": [
+    "FJ3262",
+    "FJ3368"
+   ],
+   "tipo": "hueso",
+   "caras": 4000
+  },
+  {
+   "n": "femurD",
+   "fj": [
+    "FJ3365"
+   ],
+   "tipo": "hueso",
+   "caras": 3000
+  },
+  {
+   "n": "femurI",
+   "fj": [
+    "FJ3259"
+   ],
+   "tipo": "hueso",
+   "caras": 3000
+  },
+  {
+   "n": "rotulas",
+   "fj": [
+    "FJ3275",
+    "FJ3381"
+   ],
+   "tipo": "hueso",
+   "caras": 1200
+  },
+  {
+   "n": "manos",
+   "fj": [
+    "FJ3183",
+    "FJ3184",
+    "FJ3186",
+    "FJ3187",
+    "FJ3188",
+    "FJ3193",
+    "FJ3194",
+    "FJ3196",
+    "FJ3197",
+    "FJ3198",
+    "FJ3240",
+    "FJ3243",
+    "FJ3246",
+    "FJ3249",
+    "FJ3252",
+    "FJ3257",
+    "FJ3261",
+    "FJ3268",
+    "FJ3276",
+    "FJ3278",
+    "FJ3283",
+    "FJ3284",
+    "FJ3285",
+    "FJ3291",
+    "FJ3292",
+    "FJ3296",
+    "FJ3297",
+    "FJ3299",
+    "FJ3303",
+    "FJ3304",
+    "FJ3306",
+    "FJ3313",
+    "FJ3314",
+    "FJ3316",
+    "FJ3317",
+    "FJ3318",
+    "FJ3322",
+    "FJ3323",
+    "FJ3325",
+    "FJ3326",
+    "FJ3327",
+    "FJ3350",
+    "FJ3352",
+    "FJ3354",
+    "FJ3356",
+    "FJ3358",
+    "FJ3361",
+    "FJ3367",
+    "FJ3374",
+    "FJ3382",
+    "FJ3383",
+    "FJ3388",
+    "FJ3389",
+    "FJ3390"
+   ],
+   "tipo": "hueso",
+   "caras": 10000
+  },
+  {
+   "n": "pies",
+   "fj": [
+    "FJ3179",
+    "FJ3180",
+    "FJ3181",
+    "FJ3182",
+    "FJ3185",
+    "FJ3189",
+    "FJ3190",
+    "FJ3191",
+    "FJ3192",
+    "FJ3195",
+    "FJ3241",
+    "FJ3244",
+    "FJ3247",
+    "FJ3250",
+    "FJ3253",
+    "FJ3256",
+    "FJ3258",
+    "FJ3264",
+    "FJ3266",
+    "FJ3267",
+    "FJ3270",
+    "FJ3271",
+    "FJ3280",
+    "FJ3293",
+    "FJ3294",
+    "FJ3295",
+    "FJ3298",
+    "FJ3300",
+    "FJ3301",
+    "FJ3302",
+    "FJ3305",
+    "FJ3307",
+    "FJ3308",
+    "FJ3310",
+    "FJ3311",
+    "FJ3312",
+    "FJ3315",
+    "FJ3319",
+    "FJ3320",
+    "FJ3321",
+    "FJ3324",
+    "FJ3328",
+    "FJ3329",
+    "FJ3351",
+    "FJ3353",
+    "FJ3355",
+    "FJ3357",
+    "FJ3359",
+    "FJ3360",
+    "FJ3364",
+    "FJ3370",
+    "FJ3372",
+    "FJ3373",
+    "FJ3376",
+    "FJ3377",
+    "FJ3385"
+   ],
+   "tipo": "hueso",
+   "caras": 10000
+  },
+  {
+   "n": "resto",
+   "fj": [
+    "FJ3152",
+    "FJ3237",
+    "FJ3260",
+    "FJ3277",
+    "FJ3279",
+    "FJ3282",
+    "FJ3286",
+    "FJ3288",
+    "FJ3349",
+    "FJ3362",
+    "FJ3366",
+    "FJ3384",
+    "FJ3387",
+    "FJ3391"
+   ],
+   "tipo": "hueso",
+   "caras": 30000
+  },
+  {
+   "n": "pdSup",
+   "glb": "hra_lung_f.glb",
+   "nodos": [
+    "VH_F_right_apical_bronchopulmonary_segment",
+    "VH_F_right_posterior_bronchopulmonary_segment",
+    "VH_F_right_anterior_bronchopulmonary_segm"
+   ],
+   "ajuste": {
+    "escala": 1.05,
+    "offset": [
+     9.25,
+     -183,
+     732.5
+    ]
+   },
+   "tipo": "pulmon",
+   "caras": 9000
+  },
+  {
+   "n": "pdMed",
+   "glb": "hra_lung_f.glb",
+   "nodos": [
+    "VH_F_right_lateral_bronchopulmonary_segmennt",
+    "VH_F_right_medial_bronchopulmonary_segment"
+   ],
+   "ajuste": {
+    "escala": 1.05,
+    "offset": [
+     9.25,
+     -183,
+     732.5
+    ]
+   },
+   "tipo": "pulmon",
+   "caras": 9000
+  },
+  {
+   "n": "pdInf",
+   "glb": "hra_lung_f.glb",
+   "nodos": [
+    "VH_F_right_superior_bronchopulmonary_segment",
+    "VH_F_right_medial_basal_bronchopulmonary_segment",
+    "VH_F_right_anterior_basal_bronchopulmonary_segment",
+    "VH_F_right_lateral_basal_bronchopulmonary_segment",
+    "VH_F_right_posterior_basal_bronchopulmonary_segment"
+   ],
+   "ajuste": {
+    "escala": 1.05,
+    "offset": [
+     9.25,
+     -183,
+     732.5
+    ]
+   },
+   "tipo": "pulmon",
+   "caras": 9000
+  },
+  {
+   "n": "piSup",
+   "glb": "hra_lung_f.glb",
+   "nodos": [
+    "VH_F_left_apical_bronchopulmonary_segment",
+    "VH_F_left_posterior_bronchopulmonary_segment",
+    "VH_F_left_anterior_bronchopulmonary_segment",
+    "VH_F_lingula_superior_bronchopulmonary_segment",
+    "VH_F_lingula_inferior_bronchopulmonary_segment"
+   ],
+   "ajuste": {
+    "escala": 1.05,
+    "offset": [
+     9.25,
+     -183,
+     732.5
+    ]
+   },
+   "tipo": "pulmon",
+   "caras": 9000
+  },
+  {
+   "n": "piInf",
+   "glb": "hra_lung_f.glb",
+   "nodos": [
+    "VH_F_left_superior_bronchopulmonary_segment",
+    "VH_F_left_anterior_basal_bronchopulmonary_segment",
+    "VH_F_left_lateral_basal_bronchopulmonary_segment",
+    "VH_F_left_medial_basal_bronchopulmonary_segment",
+    "VH_F_left_posterior_basal_bronchopulmonary_segment"
+   ],
+   "ajuste": {
+    "escala": 1.05,
+    "offset": [
+     9.25,
+     -183,
+     732.5
+    ]
+   },
+   "tipo": "pulmon",
+   "caras": 9000
+  },
+  {
+   "n": "traquea",
+   "fj": [
+    "FJ2541"
+   ],
+   "tipo": "tendon",
+   "caras": 3000
+  },
+  {
+   "n": "bronquios",
+   "fj": [
+    "FJ2450",
+    "FJ2539"
+   ],
+   "tipo": "tendon",
+   "caras": 3000
+  },
+  {
+   "n": "diafragma",
+   "fj": [
+    "FJ3131"
+   ],
+   "tipo": "musculo",
+   "caras": 8000
+  },
+  {
+   "n": "epiglotis",
+   "fj": [
+    "FJ2770"
+   ],
+   "tipo": "tendon",
+   "caras": 800
+  },
+  {
+   "n": "corazon",
+   "fj": [
+    "FJ2439",
+    "FJ2438",
+    "FJ2424",
+    "FJ2425",
+    "FJ2423",
+    "FJ2422"
+   ],
+   "tipo": "corazon",
+   "caras": 9000
+  },
+  {
+   "n": "aorta",
+   "fj": [
+    "FJ3413",
+    "FJ3411"
+   ],
+   "tipo": "arteria",
+   "caras": 4000
+  },
+  {
+   "n": "aortaDesc",
+   "fj": [
+    "FJ1931",
+    "FJ1932",
+    "FJ3427"
+   ],
+   "tipo": "arteria",
+   "caras": 4000
+  },
+  {
+   "n": "pulmonar",
+   "fj": [
+    "FJ2966"
+   ],
+   "tipo": "vena",
+   "caras": 2000
+  },
+  {
+   "n": "vcs",
+   "fj": [
+    "FJ3645"
+   ],
+   "tipo": "vena",
+   "caras": 1500
+  },
+  {
+   "n": "vci",
+   "fj": [
+    "FJ3441",
+    "FJ3659"
+   ],
+   "tipo": "vena",
+   "caras": 2000
+  },
+  {
+   "n": "hemiI",
+   "fj": [
+    "FJ1732",
+    "FJ1739",
+    "FJ1744",
+    "FJ1746",
+    "FJ1748",
+    "FJ1750",
+    "FJ1758",
+    "FJ1759",
+    "FJ1767",
+    "FJ1783",
+    "FJ1785",
+    "FJ1787",
+    "FJ1789",
+    "FJ1797",
+    "FJ1800",
+    "FJ1833",
+    "FJ1835",
+    "FJ1841"
+   ],
+   "tipo": "encefalo",
+   "caras": 16000
+  },
+  {
+   "n": "hemiD",
+   "fj": [
+    "FJ1733",
+    "FJ1740",
+    "FJ1745",
+    "FJ1747",
+    "FJ1749",
+    "FJ1751",
+    "FJ1784",
+    "FJ1786",
+    "FJ1788",
+    "FJ1790",
+    "FJ1798",
+    "FJ1801",
+    "FJ1806",
+    "FJ1807",
+    "FJ1814",
+    "FJ1834",
+    "FJ1836",
+    "FJ1842"
+   ],
+   "tipo": "encefalo",
+   "caras": 16000
+  },
+  {
+   "n": "occipital",
+   "fj": [
+    "FJ1791",
+    "FJ1792"
+   ],
+   "tipo": "encefalo",
+   "caras": 6000
+  },
+  {
+   "n": "cerebelo",
+   "fj": [
+    "FJ1781",
+    "FJ1830"
+   ],
+   "tipo": "encefalo",
+   "caras": 8000
+  },
+  {
+   "n": "tronco",
+   "fj": [
+    "FJ1738",
+    "FJ1762",
+    "FJ1769",
+    "FJ1770",
+    "FJ1775",
+    "FJ1779",
+    "FJ1810",
+    "FJ1817",
+    "FJ1822",
+    "FJ1826",
+    "FJ1831"
+   ],
+   "tipo": "encefalo",
+   "caras": 5000
+  },
+  {
+   "n": "calloso",
+   "fj": [
+    "FJ1742"
+   ],
+   "tipo": "valvula",
+   "caras": 3000
+  },
+  {
+   "n": "medula",
+   "fj": [
+    "FJ1737"
+   ],
+   "tipo": "nervio",
+   "caras": 1500
+  },
+  {
+   "n": "esofago",
+   "fj": [
+    "FJ2563"
+   ],
+   "tipo": "estomago",
+   "caras": 3000
+  },
+  {
+   "n": "estomago",
+   "fj": [
+    "FJ2564"
+   ],
+   "tipo": "estomago",
+   "caras": 6000
+  },
+  {
+   "n": "higado",
+   "fj": [
+    "FJ1883",
+    "FJ1893",
+    "FJ1913",
+    "FJ1914",
+    "FJ1916",
+    "FJ2386",
+    "FJ2404",
+    "FJ2405",
+    "FJ2409",
+    "FJ2415",
+    "FJ2416",
+    "FJ2816",
+    "FJ2818",
+    "FJ2819",
+    "FJ2820",
+    "FJ2821",
+    "FJ2822",
+    "FJ2823",
+    "FJ2824",
+    "FJ3071",
+    "FJ3072",
+    "FJ3073",
+    "FJ3074",
+    "FJ3075",
+    "FJ3076",
+    "FJ3077",
+    "FJ3081",
+    "FJ3083",
+    "FJ3086",
+    "FJ3088",
+    "FJ3089",
+    "FJ3090",
+    "FJ3091",
+    "FJ3092",
+    "FJ3093",
+    "FJ3095",
+    "FJ3096",
+    "FJ3102",
+    "FJ3103",
+    "FJ3104",
+    "FJ3105",
+    "FJ3106",
+    "FJ3107",
+    "FJ3108",
+    "FJ3109",
+    "FJ3110",
+    "FJ3111",
+    "FJ3112",
+    "FJ3113",
+    "FJ3114",
+    "FJ3115",
+    "FJ3116",
+    "FJ3117",
+    "FJ3122",
+    "FJ3123",
+    "FJ3124",
+    "FJ3125",
+    "FJ3126",
+    "FJ3127",
+    "FJ3128"
+   ],
+   "tipo": "higado",
+   "caras": 14000
+  },
+  {
+   "n": "vesicula",
+   "fj": [
+    "FJ2817"
+   ],
+   "tipo": "vesicula",
+   "caras": 2000
+  },
+  {
+   "n": "pancreas",
+   "fj": [
+    "FJ1895",
+    "FJ1896",
+    "FJ2629",
+    "FJ2630"
+   ],
+   "tipo": "pancreas",
+   "caras": 4000
+  },
+  {
+   "n": "duodeno",
+   "fj": [
+    "FJ2573"
+   ],
+   "tipo": "intestino",
+   "caras": 3000
+  },
+  {
+   "n": "delgado",
+   "fj": [
+    "FJ2574",
+    "FJ2575",
+    "FJ2576",
+    "FJ2577",
+    "FJ2578",
+    "FJ2579",
+    "FJ2580",
+    "FJ2581",
+    "FJ2582",
+    "FJ2583",
+    "FJ2584",
+    "FJ2585",
+    "FJ2586",
+    "FJ2587",
+    "FJ2588",
+    "FJ2589",
+    "FJ2590",
+    "FJ2591",
+    "FJ2592",
+    "FJ2593",
+    "FJ2594",
+    "FJ2595",
+    "FJ2596",
+    "FJ2597",
+    "FJ2598",
+    "FJ2599",
+    "FJ2600",
+    "FJ2601",
+    "FJ2602",
+    "FJ2603",
+    "FJ2604",
+    "FJ2605",
+    "FJ2606",
+    "FJ2607",
+    "FJ2608",
+    "FJ2609",
+    "FJ2610",
+    "FJ2611",
+    "FJ2612",
+    "FJ2613",
+    "FJ2614",
+    "FJ2615",
+    "FJ2616",
+    "FJ2617",
+    "FJ2618",
+    "FJ2619",
+    "FJ2620",
+    "FJ2621",
+    "FJ2622",
+    "FJ2623",
+    "FJ2624",
+    "FJ2625",
+    "FJ2626",
+    "FJ2627",
+    "FJ2628"
+   ],
+   "tipo": "intestino",
+   "caras": 18000
+  },
+  {
+   "n": "grueso",
+   "fj": [
+    "FJ2566",
+    "FJ2567",
+    "FJ2568",
+    "FJ2569",
+    "FJ2570",
+    "FJ2571",
+    "FJ2572",
+    "FJ2599"
+   ],
+   "tipo": "intestino",
+   "caras": 10000
+  },
+  {
+   "n": "bazo",
+   "fj": [
+    "FJ2561"
+   ],
+   "tipo": "higado",
+   "caras": 2000
+  },
+  {
+   "n": "lengua",
+   "fj": [
+    "FJ2761"
+   ],
+   "tipo": "musculo",
+   "caras": 2500
+  },
+  {
+   "n": "rinones",
+   "fj": [
+    "FJ3145",
+    "FJ3147"
+   ],
+   "tipo": "higado",
+   "caras": 5000
+  },
+  {
+   "n": "ureteres",
+   "fj": [
+    "FJ3144",
+    "FJ3146"
+   ],
+   "tipo": "tendon",
+   "caras": 2000
+  },
+  {
+   "n": "vejiga",
+   "fj": [
+    "FJ3149"
+   ],
+   "tipo": "pancreas",
+   "caras": 2500
+  },
+  {
+   "n": "gluteos",
+   "fj": [
+    "FJ1418",
+    "FJ1418M"
+   ],
+   "tipo": "musculo",
+   "caras": 8000
+  },
+  {
+   "n": "sartorios",
+   "fj": [
+    "FJ1434",
+    "FJ1434M"
+   ],
+   "tipo": "musculo",
+   "caras": 5000
+  },
+  {
+   "n": "deltoides",
+   "fj": [
+    "FJ1467",
+    "FJ1467M",
+    "FJ1468",
+    "FJ1468M",
+    "FJ1513",
+    "FJ1513M"
+   ],
+   "tipo": "musculo",
+   "caras": 6000
+  },
+  {
+   "n": "biceps",
+   "fj": [
+    "FJ1478",
+    "FJ1478M",
+    "FJ1512",
+    "FJ1512M"
+   ],
+   "tipo": "musculo",
+   "caras": 5000
+  },
+  {
+   "n": "gemelos",
+   "fj": [
+    "FJ1394",
+    "FJ1394M",
+    "FJ1397",
+    "FJ1397M"
+   ],
+   "tipo": "musculo",
+   "caras": 6000
+  },
+  {
+   "n": "ojos",
+   "fj": [
+    "FJ1282",
+    "FJ1285",
+    "FJ1286",
+    "FJ1289",
+    "FJ1297",
+    "FJ1305",
+    "FJ1317",
+    "FJ1320",
+    "FJ1331",
+    "FJ1336",
+    "FJ1337",
+    "FJ1340",
+    "FJ1348",
+    "FJ1356",
+    "FJ1368",
+    "FJ1371",
+    "FJ1382"
+   ],
+   "tipo": "valvula",
+   "caras": 4000
+  }
+ ],
+ "formas": [],
+ "puntos": {
+  "cuerpo": [
+   0,
+   -90,
+   790
+  ],
+  "craneo": [
+   0,
+   -85,
+   1550
+  ],
+  "femur": [
+   -90,
+   -80,
+   600
+  ],
+  "cuello": [
+   0,
+   -60,
+   1425
+  ],
+  "torax": [
+   0,
+   -110,
+   1200
+  ],
+  "oido": [
+   -62,
+   -70,
+   1505
+  ],
+  "pulmones": [
+   5,
+   -105,
+   1235
+  ],
+  "pdSup": [
+   -70,
+   -115,
+   1300
+  ],
+  "pdMed": [
+   -80,
+   -160,
+   1205
+  ],
+  "pdInf": [
+   -85,
+   -80,
+   1170
+  ],
+  "piSup": [
+   70,
+   -125,
+   1290
+  ],
+  "piInf": [
+   85,
+   -80,
+   1170
+  ],
+  "diafragma": [
+   0,
+   -130,
+   1150
+  ],
+  "traquea": [
+   0,
+   -95,
+   1345
+  ],
+  "corazon": [
+   18,
+   -130,
+   1215
+  ],
+  "encefalo": [
+   0,
+   -80,
+   1555
+  ],
+  "cerebelo": [
+   0,
+   -40,
+   1515
+  ],
+  "tronco": [
+   0,
+   -75,
+   1490
+  ],
+  "hemiI": [
+   40,
+   -90,
+   1600
+  ],
+  "digestivo": [
+   0,
+   -140,
+   1000
+  ],
+  "higado": [
+   -40,
+   -150,
+   1110
+  ],
+  "esofago": [
+   5,
+   -95,
+   1250
+  ],
+  "estomago": [
+   50,
+   -150,
+   1100
+  ],
+  "delgado": [
+   10,
+   -150,
+   940
+  ],
+  "grueso": [
+   -95,
+   -150,
+   950
+  ],
+  "pancreas": [
+   10,
+   -120,
+   1040
+  ],
+  "rotula": [
+   -82,
+   -112,
+   381
+  ],
+  "manoD": [
+   -262,
+   -140,
+   740
+  ],
+  "mandibula": [
+   0,
+   -150,
+   1450
+  ],
+  "humero": [
+   -190,
+   -75,
+   1180
+  ],
+  "esternon": [
+   0,
+   -185,
+   1245
+  ],
+  "pie": [
+   -100,
+   -120,
+   -40
+  ],
+  "hioides": [
+   0,
+   -112,
+   1432
+  ],
+  "esfenoides": [
+   0,
+   -118,
+   1513
+  ],
+  "epiglotis": [
+   0,
+   -112,
+   1425
+  ],
+  "nariz": [
+   0,
+   -188,
+   1492
+  ],
+  "vcs": [
+   -15,
+   -115,
+   1290
+  ],
+  "vci": [
+   -15,
+   -116,
+   1070
+  ],
+  "frontal": [
+   0,
+   -150,
+   1588
+  ],
+  "occipital": [
+   0,
+   -5,
+   1545
+  ],
+  "calloso": [
+   0,
+   -85,
+   1563
+  ],
+  "dientes": [
+   0,
+   -168,
+   1455
+  ],
+  "lengua": [
+   0,
+   -140,
+   1450
+  ],
+  "vesicula": [
+   -45,
+   -155,
+   1070
+  ],
+  "duodeno": [
+   -15,
+   -130,
+   1030
+  ],
+  "rinones": [
+   -60,
+   -90,
+   1020
+  ],
+  "ureteres": [
+   -40,
+   -95,
+   940
+  ],
+  "vejiga": [
+   0,
+   -92,
+   810
+  ],
+  "gluteos": [
+   -70,
+   -10,
+   800
+  ],
+  "sartorio": [
+   -75,
+   -112,
+   588
+  ],
+  "gemelos": [
+   -70,
+   -45,
+   280
+  ],
+  "biceps": [
+   -200,
+   -110,
+   1150
+  ],
+  "deltoides": [
+   -200,
+   -80,
+   1290
+  ],
+  "ojos": [
+   -28,
+   -152,
+   1518
+  ],
+  "columna": [
+   0,
+   -40,
+   1100
+  ]
+ },
+ "ancla": "cuerpo"
+}

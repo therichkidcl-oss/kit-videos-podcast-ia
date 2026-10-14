@@ -1,0 +1,8 @@
+# Fin de linea LF en todo lo de texto (los .sh con CRLF no corren en bash)
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.wav binary
+*.mp3 binary
+*.woff2 binary
+*.glb binary

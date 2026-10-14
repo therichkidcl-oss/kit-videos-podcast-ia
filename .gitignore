@@ -1,0 +1,56 @@
+# Secretos y entornos: NUNCA al repositorio
+.env
+.env.*
+!.env.example
+.venv/
+.venv-*/
+node_modules/
+__pycache__/
+*.pyc
+
+# Tu voz (clonada) y todo el audio/video generado
+voces/
+*.wav
+*.mp3
+*.mp4
+*.m4a
+avatar/
+*.part
+
+# Musica de Mixkit: la baja cada uno con herramientas/preparar_audio.py (su licencia no deja redistribuirla suelta)
+motor-animaciones/musica/*.mp3
+
+# Efectos: los 12 sintetizados SI van al repo; los 16 sustitutos los crea herramientas/preparar_audio.py
+!motor-animaciones/sonidos/*.wav
+motor-animaciones/sonidos/golpe-grave.wav
+motor-animaciones/sonidos/impacto.wav
+motor-animaciones/sonidos/barrido.wav
+motor-animaciones/sonidos/transicion.wav
+motor-animaciones/sonidos/click.wav
+motor-animaciones/sonidos/tecla.wav
+motor-animaciones/sonidos/tecleo.wav
+motor-animaciones/sonidos/campana.wav
+motor-animaciones/sonidos/ping.wav
+motor-animaciones/sonidos/brillo.wav
+motor-animaciones/sonidos/notificacion.wav
+motor-animaciones/sonidos/subida.wav
+motor-animaciones/sonidos/fallo.wav
+motor-animaciones/sonidos/glitch.wav
+motor-animaciones/sonidos/glitch-fuerte.wav
+motor-animaciones/sonidos/pop.wav
+
+# Proyectos de animacion armados, entregas y modelos 3D descargados
+proyectos/
+entregas/
+modelos/*
+!modelos/README.md
+!modelos/*.json
+
+# Basura de trabajo
+**/voz/trabajos.json
+**/voz/*.txt
+**/voz/*.json
+!**/voz/.gitkeep
+.DS_Store
+Thumbs.db
+*.log

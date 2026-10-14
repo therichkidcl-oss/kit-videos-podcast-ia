@@ -1,0 +1,298 @@
+{
+ "golpe": {
+  "archivo": "golpe.wav",
+  "familia": "golpe",
+  "dur": 1.6,
+  "pico": 0.014,
+  "ancla": "pico",
+  "gain_db": -12.1,
+  "descripcion": "Golpe grave limpio (sub-hit): un nombre, un logo o una cifra que entra con fuerza; titular gigante.",
+  "origen": "sintetizado (animaciones-horizontal-combinadas, sin derechos)"
+ },
+ "golpe-corto": {
+  "archivo": "golpe-corto.wav",
+  "familia": "golpe",
+  "dur": 0.7,
+  "pico": 0.012,
+  "ancla": "pico",
+  "gain_db": -12.3,
+  "descripcion": "Golpe grave corto: acentos pequeños (una tarjeta que aterriza, un número).",
+  "origen": "sintetizado (animaciones-horizontal-combinadas, sin derechos)"
+ },
+ "aire": {
+  "archivo": "aire.wav",
+  "familia": "aire",
+  "dur": 0.52,
+  "pico": 0.206,
+  "ancla": "pico",
+  "gain_db": -9.9,
+  "descripcion": "Whoosh suave: una pieza entra o se desplaza (tarjeta, panel, ficha de vídeo). Ancla: el pico cuando la pieza llega.",
+  "origen": "sintetizado (animaciones-horizontal-combinadas, sin derechos)"
+ },
+ "aire-salida": {
+  "archivo": "aire-salida.wav",
+  "familia": "aire",
+  "dur": 0.445,
+  "pico": 0.124,
+  "ancla": "pico",
+  "gain_db": -10.2,
+  "descripcion": "Whoosh descendente y corto: una pieza o una escena sale. Más bajo que el de entrada.",
+  "origen": "sintetizado (animaciones-horizontal-combinadas, sin derechos)"
+ },
+ "tick": {
+  "archivo": "tick.wav",
+  "familia": "tick",
+  "dur": 0.051,
+  "pico": 0.005,
+  "ancla": "pico",
+  "gain_db": -18.0,
+  "descripcion": "Tick seco: aparece un chip, una etiqueta, un icono de una lista, una palabra de un titular.",
+  "origen": "sintetizado (animaciones-horizontal-combinadas, sin derechos)"
+ },
+ "tick-suave": {
+  "archivo": "tick-suave.wav",
+  "familia": "tick",
+  "dur": 0.06,
+  "pico": 0.005,
+  "ancla": "pico",
+  "gain_db": -18.5,
+  "descripcion": "Tick grave y suave: elementos pequeños en serie (iconos que orbitan, casillas que se llenan).",
+  "origen": "sintetizado (animaciones-horizontal-combinadas, sin derechos)"
+ },
+ "nota": {
+  "archivo": "nota.wav",
+  "familia": "nota",
+  "dur": 2.0,
+  "pico": 0.012,
+  "ancla": "pico",
+  "gain_db": -15.8,
+  "descripcion": "Nota de campana suave: un acierto, un check, algo positivo o «gratis».",
+  "origen": "sintetizado (animaciones-horizontal-combinadas, sin derechos)"
+ },
+ "nota-doble": {
+  "archivo": "nota-doble.wav",
+  "familia": "nota",
+  "dur": 2.0,
+  "pico": 0.099,
+  "ancla": "pico",
+  "gain_db": -14.7,
+  "descripcion": "Dos notas que suben: confirmación, «listo», publicado.",
+  "origen": "sintetizado (animaciones-horizontal-combinadas, sin derechos)"
+ },
+ "swell": {
+  "archivo": "swell.wav",
+  "familia": "subida",
+  "dur": 1.068,
+  "pico": 1.068,
+  "ancla": "fin",
+  "gain_db": -11.3,
+  "descripcion": "Swell corto que sube y corta en seco: anticipa un revelado. Ancla: el final (pico) en el instante del golpe.",
+  "origen": "sintetizado (animaciones-horizontal-combinadas, sin derechos)"
+ },
+ "descarte": {
+  "archivo": "descarte.wav",
+  "familia": "tick",
+  "dur": 0.5,
+  "pico": 0.015,
+  "ancla": "pico",
+  "gain_db": -18.9,
+  "descripcion": "Barrido que baja: algo se descarta, se tacha o pierde el color.",
+  "origen": "sintetizado (animaciones-horizontal-combinadas, sin derechos)"
+ },
+ "corte": {
+  "archivo": "corte.wav",
+  "familia": "corte",
+  "dur": 0.5,
+  "pico": 0.006,
+  "ancla": "pico",
+  "gain_db": -8.5,
+  "descripcion": "Tajo: transición de cuchilla (una línea corta la imagen).",
+  "origen": "sintetizado (animaciones-horizontal-combinadas, sin derechos)"
+ },
+ "bip": {
+  "archivo": "bip.wav",
+  "familia": "tick",
+  "dur": 0.16,
+  "pico": 0.007,
+  "ancla": "pico",
+  "gain_db": -19.3,
+  "descripcion": "Bip corto: un contador, un temporizador, un aviso pequeño.",
+  "origen": "sintetizado (animaciones-horizontal-combinadas, sin derechos)"
+ },
+ "golpe-grave": {
+  "archivo": "golpe-grave.wav",
+  "familia": "golpe",
+  "dur": 1.6,
+  "pico": 0.014,
+  "ancla": "pico",
+  "gain_db": -12.1,
+  "descripcion": "Sustituto (copia de 'golpe'): el golpe grande de un revelado de marca o del titular principal.",
+  "origen": "sustituto sintetizado (pon aqui tu propio efecto si quieres)",
+  "copia_de": "golpe"
+ },
+ "impacto": {
+  "archivo": "impacto.wav",
+  "familia": "golpe",
+  "dur": 1.6,
+  "pico": 0.014,
+  "ancla": "pico",
+  "gain_db": -12.1,
+  "descripcion": "Sustituto (copia de 'golpe'): un revelado con fuerza: el golpe cae en el instante del evento.",
+  "origen": "sustituto sintetizado (pon aqui tu propio efecto si quieres)",
+  "copia_de": "golpe"
+ },
+ "barrido": {
+  "archivo": "barrido.wav",
+  "familia": "aire",
+  "dur": 0.52,
+  "pico": 0.206,
+  "ancla": "pico",
+  "gain_db": -9.9,
+  "descripcion": "Sustituto (copia de 'aire'): movimiento rapido, una ficha que cruza la pantalla.",
+  "origen": "sustituto sintetizado (pon aqui tu propio efecto si quieres)",
+  "copia_de": "aire"
+ },
+ "transicion": {
+  "archivo": "transicion.wav",
+  "familia": "aire",
+  "dur": 0.52,
+  "pico": 0.206,
+  "ancla": "pico",
+  "gain_db": -9.9,
+  "descripcion": "Sustituto (copia de 'aire'): un video que se convierte en ficha, un viaje de camara, un cambio de escena.",
+  "origen": "sustituto sintetizado (pon aqui tu propio efecto si quieres)",
+  "copia_de": "aire"
+ },
+ "click": {
+  "archivo": "click.wav",
+  "familia": "tick",
+  "dur": 0.051,
+  "pico": 0.005,
+  "ancla": "pico",
+  "gain_db": -18.0,
+  "descripcion": "Sustituto (copia de 'tick'): un cursor que pulsa un boton.",
+  "origen": "sustituto sintetizado (pon aqui tu propio efecto si quieres)",
+  "copia_de": "tick"
+ },
+ "tecla": {
+  "archivo": "tecla.wav",
+  "familia": "tick",
+  "dur": 0.06,
+  "pico": 0.005,
+  "ancla": "pico",
+  "gain_db": -18.5,
+  "descripcion": "Sustituto (copia de 'tick-suave'): una tecla.",
+  "origen": "sustituto sintetizado (pon aqui tu propio efecto si quieres)",
+  "copia_de": "tick-suave"
+ },
+ "tecleo": {
+  "archivo": "tecleo.wav",
+  "familia": "tick",
+  "dur": 0.06,
+  "pico": 0.005,
+  "ancla": "pico",
+  "gain_db": -18.5,
+  "descripcion": "Sustituto (copia de 'tick-suave'): un buscador o un prompt que se escribe.",
+  "origen": "sustituto sintetizado (pon aqui tu propio efecto si quieres)",
+  "copia_de": "tick-suave"
+ },
+ "campana": {
+  "archivo": "campana.wav",
+  "familia": "nota",
+  "dur": 2.0,
+  "pico": 0.012,
+  "ancla": "pico",
+  "gain_db": -15.8,
+  "descripcion": "Sustituto (copia de 'nota'): exito, confirmacion.",
+  "origen": "sustituto sintetizado (pon aqui tu propio efecto si quieres)",
+  "copia_de": "nota"
+ },
+ "ping": {
+  "archivo": "ping.wav",
+  "familia": "tick",
+  "dur": 0.16,
+  "pico": 0.007,
+  "ancla": "pico",
+  "gain_db": -19.3,
+  "descripcion": "Sustituto (copia de 'bip'): un dato clave.",
+  "origen": "sustituto sintetizado (pon aqui tu propio efecto si quieres)",
+  "copia_de": "bip"
+ },
+ "brillo": {
+  "archivo": "brillo.wav",
+  "familia": "nota",
+  "dur": 2.0,
+  "pico": 0.099,
+  "ancla": "pico",
+  "gain_db": -14.7,
+  "descripcion": "Sustituto (copia de 'nota-doble'): algo se ilumina, un mapa que se enciende.",
+  "origen": "sustituto sintetizado (pon aqui tu propio efecto si quieres)",
+  "copia_de": "nota-doble"
+ },
+ "notificacion": {
+  "archivo": "notificacion.wav",
+  "familia": "nota",
+  "dur": 2.0,
+  "pico": 0.099,
+  "ancla": "pico",
+  "gain_db": -14.7,
+  "descripcion": "Sustituto (copia de 'nota-doble'): una notificacion o un mensaje que entra.",
+  "origen": "sustituto sintetizado (pon aqui tu propio efecto si quieres)",
+  "copia_de": "nota-doble"
+ },
+ "subida": {
+  "archivo": "subida.wav",
+  "familia": "subida",
+  "dur": 1.068,
+  "pico": 1.068,
+  "ancla": "fin",
+  "gain_db": -11.3,
+  "descripcion": "Sustituto (copia de 'swell'): subida de tension antes de un revelado (el final cae en el golpe).",
+  "origen": "sustituto sintetizado (pon aqui tu propio efecto si quieres)",
+  "copia_de": "swell"
+ },
+ "fallo": {
+  "archivo": "fallo.wav",
+  "familia": "tick",
+  "dur": 0.5,
+  "pico": 0.015,
+  "ancla": "pico",
+  "gain_db": -18.9,
+  "descripcion": "Sustituto (copia de 'descarte'): algo falla, un 'no'.",
+  "origen": "sustituto sintetizado (pon aqui tu propio efecto si quieres)",
+  "copia_de": "descarte"
+ },
+ "glitch": {
+  "archivo": "glitch.wav",
+  "familia": "corte",
+  "dur": 0.5,
+  "pico": 0.006,
+  "ancla": "pico",
+  "gain_db": -8.5,
+  "descripcion": "Sustituto (copia de 'corte'): cambio digital sutil.",
+  "origen": "sustituto sintetizado (pon aqui tu propio efecto si quieres)",
+  "copia_de": "corte"
+ },
+ "glitch-fuerte": {
+  "archivo": "glitch-fuerte.wav",
+  "familia": "corte",
+  "dur": 0.5,
+  "pico": 0.006,
+  "ancla": "pico",
+  "gain_db": -8.5,
+  "descripcion": "Sustituto (copia de 'corte'): corte brusco; usalo poco.",
+  "origen": "sustituto sintetizado (pon aqui tu propio efecto si quieres)",
+  "copia_de": "corte"
+ },
+ "pop": {
+  "archivo": "pop.wav",
+  "familia": "tick",
+  "dur": 0.051,
+  "pico": 0.005,
+  "ancla": "pico",
+  "gain_db": -18.0,
+  "descripcion": "Sustituto (copia de 'tick'): algo pequeno que aparece; evitalo en el estilo sobrio.",
+  "origen": "sustituto sintetizado (pon aqui tu propio efecto si quieres)",
+  "copia_de": "tick"
+ }
+}

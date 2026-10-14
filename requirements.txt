@@ -1,0 +1,10 @@
+# Entorno principal (.venv, Python 3.12): motor de animacion, alineacion de la voz, Whisper, modelo 3D y control de calidad.
+# Versiones probadas entre parentesis.
+numpy>=2.0            # (2.5.3)
+faster-whisper>=1.2   # (1.2.1) transcripcion
+torch>=2.4            # (2.14.1) alineacion forzada MMS_FA del motor
+torchaudio>=2.4       # (2.11.0)
+pillow>=10            # (12.3.0) hojas de revision
+scipy>=1.11           # (1.18.1)
+trimesh>=4.4          # armado del GLB (comun/modelo.py)
+fast-simplification>=0.1.9   # decimado de mallas

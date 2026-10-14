@@ -1,0 +1,16 @@
+{
+ "titulo": "Por que el cielo es azul",
+ "frases": [
+  "¿Por qué el cielo es azul? Te lo explico en un minuto.",
+  "La luz del sol parece blanca, pero trae todos los colores mezclados.",
+  "Al cruzar el aire, choca con moléculas muchísimo más pequeñas que ella.",
+  "Esos choques desvían mucho más la luz azul, porque su onda es más corta.",
+  "Por eso el azul te llega desde todas partes del cielo, y no solo desde el sol.",
+  "De hecho, el azul se desvía casi seis veces más que el rojo."
+ ],
+ "tips": "Tres datos: al atardecer el cielo se pone rojo, en la Luna es negro, y las nubes se ven blancas.",
+ "claves": [["azul0", 0, "azul"], ["explico", 0, "explico"], ["minuto", 0, "minuto"],
+            ["luz1", 1, "luz"], ["colores", 1, "colores"], ["aire", 2, "aire"], ["moleculas", 2, "moleculas"],
+            ["desvian", 3, "desvian"], ["onda", 3, "onda"], ["todas", 4, "todas"], ["seis", 5, "seis"], ["rojo5", 5, "rojo"],
+            ["atardecer", 6, "atardecer"], ["luna", 6, "luna"], ["nubes", 6, "nubes"]]
+}
